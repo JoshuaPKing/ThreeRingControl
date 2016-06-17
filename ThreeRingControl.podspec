@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git => "https://github.com/JoshuaPKing/ThreeRingControl.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/JoshuaPKing/ThreeRingControl.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
