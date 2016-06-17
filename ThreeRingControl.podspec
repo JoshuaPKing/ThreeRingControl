@@ -5,8 +5,7 @@ Pod::Spec.new do |s|
   s.name         = "ThreeRingControl"
   s.version      = "0.0.1"
   s.summary      = "A short description of ThreeRingControl."
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "N/A"
   s.homepage     = "http://EXAMPLE/ThreeRingControl"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
